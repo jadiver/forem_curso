@@ -1,3 +1,4 @@
+package Clases;
 //String sirve para almacenar mensaje
 public class Main6 {
     public static void main(String[] args) {

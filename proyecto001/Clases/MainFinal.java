@@ -1,3 +1,4 @@
+package Clases;
 public class MainFinal {
     public static void main(String[] args) {
         final int numero = 10;

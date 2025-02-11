@@ -1,3 +1,4 @@
+package Clases;
 public class Main3 {
     public static void main(String[] args) {
         char unicoValor = '6';

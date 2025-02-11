@@ -1,3 +1,4 @@
+package Clases;
 public class Main2 {
     public static void main(String[] args) {
         int maxValue = Integer.MAX_VALUE;
