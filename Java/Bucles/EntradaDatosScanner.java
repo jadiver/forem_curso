@@ -1,3 +1,4 @@
+package Bucles;
 import java.util.Scanner; //Importamos la clase Scanner
 
 public class EntradaDatosScanner {
